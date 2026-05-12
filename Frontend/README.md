@@ -1,11 +1,34 @@
+# Chitra – Digital Art Gallery & Painting Store
 
-  # Art Gallery Selling App
+Chitra is a full-stack digital art gallery and painting store built with React, TypeScript, Node.js, Express, and PostgreSQL. The platform allows users to explore artworks, add items to cart, place orders, and experience a modern e-commerce interface for art collections.
 
-  This is a code bundle for Art Gallery Selling App. The original project is available at https://www.figma.com/design/nOyvkishpNyTQOV15mbnMJ/Art-Gallery-Selling-App.
+## Tech Stack
 
-  ## Running the code
+### Frontend
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
 
-  Run `npm i` to install the dependencies.
+### Backend
+- Node.js
+- Express.js
+- PostgreSQL
+- Supabase
 
-  Run `npm run dev` to start the development server.
-  
+## Features
+- Responsive modern UI
+- Product browsing
+- Shopping cart functionality
+- Checkout flow
+- Order management
+- Authentication-ready backend structure
+
+## Running the Project
+
+### Frontend
+
+```bash
+cd Frontend
+npm install
+npm run dev
